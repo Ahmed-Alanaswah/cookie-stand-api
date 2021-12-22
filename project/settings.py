@@ -39,9 +39,10 @@ ENVIRONMENT = env.str("ENVIRONMENT")
 
 SECRET_KEY = env.str("SECRET_KEY")
 
-DEBUG = env.bool("DEBUG")
+DEBUG = False
 
-ALLOWED_HOSTS = tuple(env.list("ALLOWED_HOSTS"))
+# ALLOWED_HOSTS = tuple(env.list("ALLOWED_HOSTS"))
+ALLOWED_HOSTS = ['127.0.0.1']
 
 
 # Application definition

@@ -1,12 +1,33 @@
-asgiref==3.3.1; python_version >= "3.6"
-django-cors-headers==3.7.0; python_version >= "3.6"
-django-environ==0.4.5
-django==3.1.7; python_version >= "3.6"
-djangorestframework-simplejwt==4.6.0; python_version >= "3.7"
-djangorestframework==3.12.3; python_version >= "3.5"
-gunicorn==20.0.4; python_version >= "3.4"
-psycopg2-binary==2.8.6; (python_version >= "2.7" and python_full_version < "3.0.0") or (python_full_version >= "3.4.0")
-pyjwt==2.0.1; python_version >= "3.7"
-pytz==2021.1; python_version >= "3.6"
-sqlparse==0.4.1; python_version >= "3.6"
-whitenoise==5.2.0; python_version >= "3.5" and python_version < "4"
+appdirs @ file:///home/ahmedalanasweh/.cache/pypoetry/artifacts/47/cf/4f/4ef02fb715aa36daeebad18cc5570126159c659c41c7b5ec46a7387d9b/appdirs-1.4.4-py2.py3-none-any.whl
+asgiref @ file:///home/ahmedalanasweh/.cache/pypoetry/artifacts/c3/92/1c/3d42ce7ad1e9e2aa1621c3fa8ebc5e21bd880a768bd691fb4f0356baa8/asgiref-3.4.1-py3-none-any.whl
+black @ file:///home/ahmedalanasweh/.cache/pypoetry/artifacts/56/00/d0/a3bee2cbd161f599bac7d8ee24fb2b17aeba39b53bc42724de21f352bf/black-20.8b1.tar.gz
+certifi @ file:///home/ahmedalanasweh/.cache/pypoetry/artifacts/71/9a/ba/a51b34ce9aacf9ac5dbb90d7c7335877522ee188189d9a521ee1a9c411/certifi-2021.10.8-py2.py3-none-any.whl
+charset-normalizer @ file:///home/ahmedalanasweh/.cache/pypoetry/artifacts/9e/1a/c0/f7635922644ab43cdae873172296c99b00796f2e281669e0fb7516bf88/charset_normalizer-2.0.9-py3-none-any.whl
+click @ file:///home/ahmedalanasweh/.cache/pypoetry/artifacts/34/4d/5b/2e936191a48c61e37319c157af7e3c0dbdde9b80ccdd04b7940f99c5db/click-8.0.3-py3-none-any.whl
+Django @ file:///home/ahmedalanasweh/.cache/pypoetry/artifacts/2c/c1/e5/3e7690b4e7c8ef5050b27f0d6525b86b1bc5e10a27355cae585087abdc/Django-3.2.10-py3-none-any.whl
+django-cors-headers @ file:///home/ahmedalanasweh/.cache/pypoetry/artifacts/40/69/05/4f8e1757bbd0ddc4fbdd36157a7b4d6a969013a237748f684bb41ae1f5/django_cors_headers-3.10.1-py3-none-any.whl
+django-environ @ file:///home/ahmedalanasweh/.cache/pypoetry/artifacts/87/d0/e4/2e59fd1e2526f0f52d73260ba0356904cb9c2bcd82299d5a3f88b3e341/django_environ-0.4.5-py2.py3-none-any.whl
+djangorestframework @ file:///home/ahmedalanasweh/.cache/pypoetry/artifacts/c8/a0/65/8c7ee0fbe9dab178a3a225310479f95c4cfe8551423ec0469b7eb14325/djangorestframework-3.13.0-py3-none-any.whl
+djangorestframework-simplejwt @ file:///home/ahmedalanasweh/.cache/pypoetry/artifacts/7b/dc/a6/e53d39f93817231b28801e06accfdb6edb4f04ce8df6dfa16bfa0363b2/djangorestframework_simplejwt-4.8.0-py3-none-any.whl
+fire @ file:///home/ahmedalanasweh/.cache/pypoetry/artifacts/15/23/17/b4c422002c17821994b23a42e23b64df84a9443841c9026dc070fdcd6c/fire-0.4.0.tar.gz
+flake8 @ file:///home/ahmedalanasweh/.cache/pypoetry/artifacts/3f/57/d5/11722093c13092cc3bfc3dd7c88aef6f8e4d5ac97cfe5fd054d5aba412/flake8-3.9.2-py2.py3-none-any.whl
+gunicorn @ file:///home/ahmedalanasweh/.cache/pypoetry/artifacts/d4/22/ea/fb991f1fdb4e8ae8fd30e0bce3c23ece991aa75df3f5a4c4f4d5aba6ae/gunicorn-20.1.0-py3-none-any.whl
+idna @ file:///home/ahmedalanasweh/.cache/pypoetry/artifacts/d5/04/80/9c17fd3240a37d12ff2ef042b0306aeb1abd2d8b95f150fd60be938352/idna-3.3-py3-none-any.whl
+mccabe @ file:///home/ahmedalanasweh/.cache/pypoetry/artifacts/96/5e/5f/21ae5296697ca7f94de4da6e21d4936d74029c352a35202e4c339a4253/mccabe-0.6.1-py2.py3-none-any.whl
+mypy-extensions @ file:///home/ahmedalanasweh/.cache/pypoetry/artifacts/92/45/bf/1807ce854ff668d92602207a37bfa9316def2a3f257bd03c4c5be4bc9b/mypy_extensions-0.4.3-py2.py3-none-any.whl
+pathspec @ file:///home/ahmedalanasweh/.cache/pypoetry/artifacts/0a/67/21/620031f7f2938bad77b057a68a4c2a334542a7402a3214ed48690caf8c/pathspec-0.9.0-py2.py3-none-any.whl
+psycopg2-binary @ file:///home/ahmedalanasweh/.cache/pypoetry/artifacts/00/e5/4f/35844811234772758b04979f5f81ca3eebc427dbcd38abc9ba7a93256b/psycopg2_binary-2.9.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+pycodestyle @ file:///home/ahmedalanasweh/.cache/pypoetry/artifacts/4c/30/97/026c283ef67eb248e5b7e6fad1f8ffb99dae50c11fd93eb939fd7c1f46/pycodestyle-2.7.0-py2.py3-none-any.whl
+pyflakes @ file:///home/ahmedalanasweh/.cache/pypoetry/artifacts/eb/c4/2c/47fcc1b3f387b1f7033e85b3ac6ee7772338461a8de8ac3977c6a7dcc1/pyflakes-2.3.1-py2.py3-none-any.whl
+PyJWT @ file:///home/ahmedalanasweh/.cache/pypoetry/artifacts/6d/a2/4c/7218503a28c8d672d4374161e6e47a71ffc11c0046a535d2ff709af4ca/PyJWT-2.3.0-py3-none-any.whl
+pytz @ file:///home/ahmedalanasweh/.cache/pypoetry/artifacts/3e/f3/dd/6629bf5ed0a970a128e0a015f2af3b67280e749a56fdaabdaa06d5fc6b/pytz-2021.3-py2.py3-none-any.whl
+regex @ file:///home/ahmedalanasweh/.cache/pypoetry/artifacts/69/3f/17/3188c9bca1e4732b00fb9bfcb2517add6231b3912ff2fc88e163377c06/regex-2021.11.10-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+requests @ file:///home/ahmedalanasweh/.cache/pypoetry/artifacts/13/00/3d/5574756561eed6b522f5b13d5a2c05c2920860b05b1e687c3792495ba0/requests-2.26.0-py2.py3-none-any.whl
+six @ file:///home/ahmedalanasweh/.cache/pypoetry/artifacts/08/9f/47/c16ae03035fc69eaf100ea39657a49baaeef714e25a52575710c34cd48/six-1.16.0-py2.py3-none-any.whl
+sqlparse @ file:///home/ahmedalanasweh/.cache/pypoetry/artifacts/ea/fd/ba/117a876397913faee210ef8bac93829e22ad9232662e656971383c0718/sqlparse-0.4.2-py3-none-any.whl
+termcolor @ file:///home/ahmedalanasweh/.cache/pypoetry/artifacts/a2/5d/c7/e4ccb3b3bb8d3e3aff995fb6ffb12cfc78bbc8affa283907ee5eb5a5a5/termcolor-1.1.0.tar.gz
+toml @ file:///home/ahmedalanasweh/.cache/pypoetry/artifacts/6b/6a/c9/53b19f7870a77d855e8b05ecdc98193944e5d246dafe11bbcad850ecba/toml-0.10.2-py2.py3-none-any.whl
+typed-ast @ file:///home/ahmedalanasweh/.cache/pypoetry/artifacts/0e/e8/05/cc2666f90671d5c7ba3dcbc1ae6702bbd344ab9e6ef6791b539e4c8596/typed_ast-1.5.1-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl
+typing_extensions @ file:///home/ahmedalanasweh/.cache/pypoetry/artifacts/88/68/28/f1a10f89c5267ca2c8a3c0e79c45230a866cd7c52d295e556597219c54/typing_extensions-4.0.1-py3-none-any.whl
+urllib3 @ file:///home/ahmedalanasweh/.cache/pypoetry/artifacts/55/46/d1/1acba0600879bfaada54191116fbaea89a464f437b3f949bc9c2a220e7/urllib3-1.26.7-py2.py3-none-any.whl
+whitenoise @ file:///home/ahmedalanasweh/.cache/pypoetry/artifacts/7e/3f/f1/316ef7ba0ce1f636d99477504c03872cc272ff4c882a6d643a6991598c/whitenoise-5.3.0-py2.py3-none-any.whl
