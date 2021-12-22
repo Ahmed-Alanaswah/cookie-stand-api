@@ -42,7 +42,7 @@ SECRET_KEY = env.str("SECRET_KEY")
 DEBUG = False
 
 # ALLOWED_HOSTS = tuple(env.list("ALLOWED_HOSTS"))
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','new-cookie-stand-api.herokuapp.com/']
 
 
 # Application definition
